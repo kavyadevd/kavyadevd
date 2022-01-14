@@ -9,7 +9,7 @@ I am a Robotics Masters's student. I like smart autonomous systems. I love to de
 ./ Robotics Graduate student at the [University of Maryland College Park](https://robotics.umd.edu/) </br>
 ./ Graduated with a Bachelors degree in Computer Engineering </br>
 ./ Loves building and development of robust software systems </br>
-./ Interests - Machine learning | Computer Vision | Autonomous systems </br>
+./ Interests - Robotic Software Developer | Machine learning | Computer Vision | Autonomous systems </br>
 ./ USA | India
 
 
