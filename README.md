@@ -37,8 +37,8 @@ I am a Robotics Masters's student. I like smart autonomous systems. I love to de
 ##
 
 ```bash
-  > What I cannot create I do not understand 
-  >> Richard Feynman
+  > The secret of getting ahead is getting started.
+  >> Mark Twain
 ```
 ##
 
