@@ -42,6 +42,11 @@ I am a Robotics Masters's student. I like smart autonomous systems. I love to de
 ```
 ##
 
+
+![](https://komarev.com/ghpvc/?username=kavyadevd&color=blue)
+
+##
+
 <h6 align="left">Connect with me:</h6>
 <p align="left">
    <a href="https://linkedin.com/in/kavyashree-devadiga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavyashree-devadiga" height="30" width="40" /></a>
