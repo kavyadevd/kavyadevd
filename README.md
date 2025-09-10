@@ -2,7 +2,7 @@
    Kavya Devadiga
 </h1>
 <h4 align="center">
-I am a Robotics Masters's student. I like smart autonomous systems. I love to design systems that would automate the dull, dangerous, and mundane tasks and make a difference in human lives for betterment. 
+Machine Learning Engineer specializing in the design and development of intelligent, autonomous systems. My passion lies in building solutions that automate tedious and dangerous tasks, creating a meaningful impact on people's lives
 </h4>
 
 ## 
